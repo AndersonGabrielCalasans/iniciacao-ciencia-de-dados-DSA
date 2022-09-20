@@ -1,14 +1,14 @@
-# Este é o meu primeiro projeto de Análise de Dados
+# 📊 Análise Exploratória de Dados reais de filmes do IMDB
 
 Olá, seja bem vindo! Esse é o meu primeiro projeto de análise de dados e vou descrever todo o passo a passo dele para você.
 
 ## Objetivos do Projeto:
 
- - O objetivo principal é aplicar todos os conhecimentos adquiridos até o momento no curso de Python Fundamentos Para Análise de Dados 3.0 da Data Science Academy.
+ - O objetivo principal é aplicar todos os conhecimentos adquiridos, até o momento, no curso de **Python Fundamentos Para Análise de Dados 3.0** da **Data Science Academy**.
 
 ## Descrição:
 
- - Esse projeto é um estudo básico de análise exploratória de dados proposto no curso de Python Fundamentos Para Análise de Dados 3.0 da DSA e para atingir o objetivo final utilizei as linguagens Python com o Jupyter Notebook, SQL e o Banco de Dados com o SQLite, além do próprio Git/GitHub.
+ - Esse projeto é um estudo básico de análise exploratória de dados proposto no módulo 06 do curso de Python Fundamentos Para Análise de Dados 3.0 da **DSA** e para atingir o objetivo final utilizei as linguagens Python com a ferramenta **Jupyter Notebook**, **SQL** com o SGBD **SQLite**, além do próprio Git/GitHub e Markdown.
  - Todos os dados utilizados são reais e estão disponíveis publicamente, são dados sobre filmes na plataforma IMDB.
 
 ### Ao aplicar Análise Exploratória de Dados irei responder a estas 10 perguntas:
@@ -24,4 +24,6 @@ Olá, seja bem vindo! Esse é o meu primeiro projeto de análise de dados e vou 
 - 9- Quais São os Top 10 Melhores Filmes?
 - 10- Quais São os Top 10 Piores Filmes?
 
+O arquivo que está contido todo o estudo realizado esta disponível [nesse link](). 
 
+Obrigado por terem chegado até aqui, espero que gostem, caso tenham alguma dúvida ou comentário a fazer os meus contatos estão disponíveis no meu **README principal** e até a próxima! 👋🏽😁
